@@ -1,7 +1,5 @@
 # University-API-Project
 
-# Random Universities Search
-
 This simple web application allows users to search for universities based on the country entered. It retrieves data from an external API and dynamically displays a list of universities on the web page.
 
 ## Overview
